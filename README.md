@@ -1,2 +1,2 @@
 # Tic-tac-toe
-A simple GUI based  multiplayer game in python
+A simple text based  multiplayer game in python
